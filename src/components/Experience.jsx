@@ -30,12 +30,6 @@ const Experience = () => {
             style: "shadow-sky-400",
         },
         {
-            id: 4,
-            src: nextjs,
-            title: "Next JS",
-            style: "shadow-white",
-        },
-        {
             id: 5,
             src: nodeLogo,
             title: "Node JS",
