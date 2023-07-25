@@ -1,7 +1,6 @@
 import React from "react";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
 import nodeLogo from "../assets/nodeLogo.png";
 import mongodbLogo from "../assets/mongodbLogo.png"
 import mysqlLogo from "../assets/mysqlLogo.png";
